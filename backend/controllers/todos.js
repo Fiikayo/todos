@@ -1,5 +1,4 @@
 import asyncHandler from 'express-async-handler';
-
 import Todo from '../model/todoModel.js';
 
 // @desc Get Todos
